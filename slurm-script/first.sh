@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH -D ~/work/agro932/sgraham121/2025-agro932-lab/data
+#SBATCH -D ~/work/agro932/sgraham121/2025-agro932-lab
 #SBATCH -o ~/work/agro932/sgraham121/2025-agro932-lab/slurm-log/firstslurm-stdout-%j.txt
 #SBATCH -e ~//work/agro932/sgraham121/2025-agro932-lab/slurm-log/firstslurm-stderr-%j.txt
 #SBATCH -J firstslurm
