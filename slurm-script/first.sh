@@ -7,7 +7,6 @@
 set -e
 set -u
 
-cd ..
 cd largedata
 for i in {1..20}
 do
